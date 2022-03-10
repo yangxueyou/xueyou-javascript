@@ -11,16 +11,16 @@
 
 - 高频
   - [this](/src/0001.md)
+  - [valueOf、toString](/src/0100/0120/0014.md)
   - [Promise](/src/0006.md)
   - [async/await](/src/0021.md)
   - [闭包](/src/0022.md)
   - [路由](/src/0012.md)
   - [数组](/src/0013.md)
   - [对象](/src/0016.md)
-  - [valueOf、toString](/src/0014.md)
   - [节流防抖](/src/0015.md)
   - [高阶函数/组件](/src/0018.md)
-  - [函数柯里化](/src/0023.md)
+  - [函数柯里化](/src/0100/0130/0023.md)
   - [模块](/src/0026.md)
   - [跨域](/src/0028.md)
   
