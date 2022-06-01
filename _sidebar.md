@@ -13,6 +13,7 @@
   - [requestAnimationFrame](/src/0100/0130/0024.md)
   - [requestIdleCallback](/src/0100/0130/0025.md)
   - [深度优先遍历](/src/0100/0130/0030.md)
+  - [排序](/src/0100/0140/0034.md)
 
 - 高频
   - [数组](/src/0100/0120/0013.md)
